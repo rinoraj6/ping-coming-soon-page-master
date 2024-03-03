@@ -40,3 +40,8 @@ btn.addEventListener('click', () => {
     
 });
 
+email.addEventListener('invalid', (event)=>{
+    event.preventDefault();
+});
+    
+  
