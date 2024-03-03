@@ -41,8 +41,8 @@ body{
 }
 
 .logo{
-    width: 30%;
-    max-width: 150px;
+    width: 20%;
+    max-width: 90px;
     margin: 0 auto;
 }
 
@@ -57,7 +57,7 @@ body{
 
 .coming-msg{
     /* border: 1px solid; */
-    margin-top: 3rem;
+    margin-top: 2.6rem;
     text-align: center;
 }
 .coming-msg :first-child{
@@ -229,12 +229,13 @@ input::placeholder{
 .icon{
     border: 1px solid var(--PaleBlue);
     color: var(--Blue);
-    width: 2rem;
-    height: 2rem;
+    width: 1.5rem;
+    height: 1.5rem;
     text-align: center;
-    padding: .5rem;
+    padding: .7rem .2rem;
     border-radius: 50%;
 }
+
 .icon:hover{
     background-color: var(--Blue);
     color: white;
