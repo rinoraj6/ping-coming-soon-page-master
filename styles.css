@@ -234,11 +234,13 @@ input::placeholder{
     text-align: center;
     padding: .7rem .2rem;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .icon:hover{
     background-color: var(--Blue);
     color: white;
+
 }
 
 
